@@ -76,7 +76,7 @@ const resources = {
     interpolation: {
       escapeValue: false,
     },
-    ns: ['navbar', 'home', 'work', 'myinfo', 'contact'],
+    ns: ['navbar', 'home', 'work', 'info', 'contact'],
     defaultNS: 'navbar', // Default namespace to use
   });
 
